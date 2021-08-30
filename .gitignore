@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+target/
+.DS_Store
+perf/*.log
+perf/*.lines
+perf/*.input
+perf/createTestTopics.sh
+perf/deleteTestTopics.sh
+perf/uploadTestData.sh.sh
+.bsp/
+.bloop/
+.metals/
+.vscode/
